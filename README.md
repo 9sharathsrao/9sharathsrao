@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**9sharathsrao/9sharathsrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Sharathrao** is a PowerFull Full Stack Developer with Java, Sql, Web Technologies
+<h1>Am From Abbigere, Bangalore</h1>
+- *Here are some ideas to get you started:*
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
