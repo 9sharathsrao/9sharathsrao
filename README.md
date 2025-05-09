@@ -3,7 +3,9 @@
 
 **Sharathrao** is a PowerFull Full Stack Developer with Java, Sql, Web Technologies
 <h1>Am From Abbigere, Bangalore</h1>
+<h3>Java Developer with security</h3>
 - *Here are some ideas to get you started:*
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
