@@ -1,10 +1,9 @@
 ## Hi there 👋! I'm **Sharath S** 
 
-
-Full Stack Developer with Java, Sql, Web Technologies.
+<h3>Full Stack Developer with Java, Sql, Web Technologies.</h3>
 <h3>From Bengaluru</h3>
 <h3>Aspiring Java Developer with a focus on secure and scalable applications</h3>
---- 
+---
 <!-- Above 3 hypens displays a horizontal line -->
 
 - 🔭  I’m currently building hands-on projects as part of my training and final year work.
@@ -13,8 +12,7 @@ Full Stack Developer with Java, Sql, Web Technologies.
 - ⚡ Nickname: Rao
 - 🧠 People call me Rao when I’m in tech zone mode!
 - ⚡ Fun fact: I collect coding jokes... here's one: Why do programmers prefer dark mode? Because light attracts bugs! 🐛💻
-
-- <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 🔭 I’m currently developing real-world web applications as part of my learning journey.
