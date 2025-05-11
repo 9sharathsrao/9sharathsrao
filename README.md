@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋! I'm **Sharath S** 
 
 
-**Sharath S** Full Stack Developer with Java, Sql, Web Technologies.
-<h1>Am From Bengaluru</h1>
+Full Stack Developer with Java, Sql, Web Technologies.
+<h1>From Bengaluru</h1>
 <h3>Aspiring Java Developer with a focus on secure and scalable applications</h3>
 --- 
 <!-- Above 3 hypens displays a horizontal line -->
