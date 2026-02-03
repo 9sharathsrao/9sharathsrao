@@ -22,6 +22,7 @@ I have hands-on experience with diverse projects that leverage modern backend fr
 - ⚡ Nickname: Rao
 - 🧠 People call me Rao when I’m in tech zone mode!
 - ⚡ Fun fact: I collect coding jokes... here's one: Why do programmers prefer dark mode? Because light attracts bugs! 🐛💻
+
   ---
 ## 🛠️ Skills and Tools
 ---
