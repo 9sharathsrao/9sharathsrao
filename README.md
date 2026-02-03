@@ -10,15 +10,14 @@
 <h3>From Bengaluru</h3>
 <h3>Full Stack Java Developer</h3>
 ---
-<!-- Above 3 hypens displays a horizontal line -->
 
-**🌟 About Me
+## 🌟 About Me
 ---
 I am a Full Stack Java Developer with expertise in Java, Spring Boot, and React, dedicated to building scalable architectures, securing web applications, and optimizing end-to-end user experiences.
 
 I have hands-on experience with diverse projects that leverage modern backend frameworks and responsive frontend technologies to improve system efficiency and performance. My goal is to deliver high-quality, robust software solutions that meet enterprise standards for security and reliability.
 
-<p align="left"> <a href="https://www.linkedin.com/in/hey-rao/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sharathsrao4529@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/hey-rao/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /> </a> <a href="mailto:sharathsrao4529@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /> </a> </p>
 
 - ⚡ Nickname: Rao
 - 🧠 People call me Rao when I’m in tech zone mode!
@@ -27,4 +26,4 @@ I have hands-on experience with diverse projects that leverage modern backend fr
 
 ## 🛠️ Skills and Tools
 ---
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,oracle,supabase,firebase,react,html,css,js,bootstrap,tailwind,flutter,git,github,vscode,eclipse,postman" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,supabase,firebase,react,html,css,js,bootstrap,tailwind,flutter,git,github,vscode,eclipse,postman" /> </p>
