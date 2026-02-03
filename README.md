@@ -9,7 +9,6 @@
 <h3>Developing end-to-end software solutions with a focus on clean code, secure Spring Boot architectures, and responsive UI design.</h3>
 <h3>From Bengaluru, Karnataka</h3>
 <h3>Full Stack Java Developer</h3>
----
 
 ## 🌟 About Me
 ---
