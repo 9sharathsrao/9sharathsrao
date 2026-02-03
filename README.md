@@ -41,3 +41,15 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### 🛠️ Skills and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,supabase,firebase,php" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap,html,css,js" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,maven,git,github,vscode,postman" />
+</p>
