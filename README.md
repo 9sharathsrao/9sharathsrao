@@ -1,4 +1,4 @@
-## Hi there 👋! I'm **Sharath S** 
+<p align="center">## Hi there 👋! I'm **Sharath S** </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
