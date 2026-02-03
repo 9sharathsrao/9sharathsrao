@@ -12,7 +12,8 @@
 ---
 <!-- Above 3 hypens displays a horizontal line -->
 
-###🌟 About Me
+**🌟 About Me
+---
 I am a Full Stack Java Developer with expertise in Java, Spring Boot, and React, dedicated to building scalable architectures, securing web applications, and optimizing end-to-end user experiences.
 
 I have hands-on experience with diverse projects that leverage modern backend frameworks and responsive frontend technologies to improve system efficiency and performance. My goal is to deliver high-quality, robust software solutions that meet enterprise standards for security and reliability.
@@ -24,7 +25,6 @@ I have hands-on experience with diverse projects that leverage modern backend fr
 - ⚡ Fun fact: I collect coding jokes... here's one: Why do programmers prefer dark mode? Because light attracts bugs! 🐛💻
 
 
-### 🛠️ Skills and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,oracle,supabase,firebase" /> </p>
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind,flutter" /> </p>
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" /> </p>
+## 🛠️ Skills and Tools
+---
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,oracle,supabase,firebase,react,html,css,js,bootstrap,tailwind,flutter,git,github,vscode,eclipse,postman" /> </p>
