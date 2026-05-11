@@ -1,29 +1,80 @@
-<h1 align="center">Hi there 👋! I'm Sharath S<h1>
+# Hey, I'm Sharath 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=☕+Full+Stack+Java+Developer;🍃+Spring+Boot+%26+React+JS;📱+React+Native+%26+Flutter+Developer;💻+Software+Application+Developer;🛠️+Building+Scalable+Applications;🖥️+Enterprise+Level+Applications" alt="Typing SVG" />
-  </a>
-</h1>
+Java developer from Bengaluru. I build full-stack web apps and mobile apps — clean backends, solid APIs, and UIs that actually work.
 
-<h3>Developing end-to-end software solutions with a focus on clean code, secure Spring Boot architectures, and responsive UI design.</h3>
-<h3>From Bengaluru, Karnataka</h3>
-<h3>Full Stack Java Developer</h3>
+I'm actively looking for **Java developer roles** (remote or on-site, Bengaluru preferred) and open to **freelance projects**.
+
 ---
 
-## 🌟 About Me
+## 🔨 What I Work With
+
+**Backend**
+Java · Spring Boot · Spring Security · Hibernate · REST APIs · MySQL
+
+**Frontend**
+React.js · JavaScript (ES6+) · Tailwind CSS · Bootstrap · HTML5 · CSS3
+
+**MERN Stack**
+MongoDB · Express.js · React.js · Node.js
+
+**Mobile**
+React Native · Flutter · Dart
+
+**Tools & Infra**
+Git · GitHub · Docker · Postman · Firebase · Supabase · VS Code · Eclipse
+
 ---
-I am a Full Stack Java Developer with expertise in Java, Spring Boot, and React, dedicated to building scalable architectures, securing web applications, and optimizing end-to-end user experiences.
 
-I have hands-on experience with diverse projects that leverage modern backend frameworks and responsive frontend technologies to improve system efficiency and performance. My goal is to deliver high-quality, robust software solutions that meet enterprise standards for security and reliability.
+## 🚀 Projects
 
-<p align="left"> <a href="https://www.linkedin.com/in/hey-rao/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /> </a> <a href="mailto:sharathsrao4529@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /> </a> </p>
+### 🛒 ClinkNBuy — E-Commerce Web App
+Full-stack e-commerce platform with role-based access (Admin / Seller / Customer), OTP email verification, product approval flow, cart management, and Razorpay payment integration.
 
-- ⚡ Nickname: Rao
-- 🧠 People call me Rao when I’m in tech zone mode!
-- ⚡ Fun fact: I collect coding jokes... here's one: Why do programmers prefer dark mode? Because light attracts bugs! 🐛💻
+**Stack:** Java 17 · Spring Boot · Spring Security · React.js · Tailwind CSS · MySQL · Docker
 
-  ---
-## 🛠️ Skills and Tools
+**Highlights:**
+- JWT-less session auth with server-side validation
+- OTP-based registration flow via email
+- Multi-role system: admins approve products, sellers list them, customers buy
+- Razorpay payment gateway integrated
+- Dockerized backend
+
+🔗 [View Repo](https://github.com/9sharathsrao/E-commerce_Web_App-Spring-Boot-Spring-Security-React-Tailwind-CSS)
+
 ---
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,supabase,firebase,react,html,css,js,bootstrap,tailwind,flutter,git,github,vscode,eclipse,postman" /> </p>
+
+### 🧾 RetailEase — Billing Software System
+Retail billing and inventory management system built for small businesses. Handles invoicing, product stock, and customer records.
+
+**Stack:** Spring Boot · Spring Security · React.js · Bootstrap 5 · MySQL
+
+🔗 [View Repo](https://github.com/9sharathsrao/Retail_Billing_Software_System-Spring_Boot-Spring_Security-React-Bootstrap5)
+
+---
+
+### 📱 Mobile & MERN Projects
+Completed hands-on courses and built projects in **React Native**, **Flutter**, and the **MERN stack** (MongoDB, Express, React, Node). These cover cross-platform mobile UIs, REST API integration, and full JS-based backends.
+
+> Repos coming soon — currently cleaning them up for public release.
+
+---
+
+## 📚 Currently
+
+- Polishing **React Native** and **Flutter** project repos
+- Exploring **microservices** with Spring Boot
+- Looking for a team to join and grow with
+
+---
+
+## 📬 Let's Talk
+
+If you have a role, a project, or just want to connect — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hey--rao-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hey-rao/)
+[![Gmail](https://img.shields.io/badge/Email-sharathsrao4529@gmail.com-EA4335?style=flat&logo=gmail)](mailto:sharathsrao4529@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9sharathsrao-181717?style=flat&logo=github)](https://github.com/9sharathsrao)
+
+---
+
+*Open to full-time Java/Full-stack roles and freelance web/mobile projects.*
