@@ -81,7 +81,7 @@ A full-stack lead management platform designed to help sales teams manage, searc
 * 🐳 Dockerized full-stack application for consistent deployment
 
 **Repository:**
-[View Project →](https://github.com/9sharathsrao/Smart_Leads_Dashboard)
+[View Project →](https://github.com/9sharathsrao/Smart_Leads_Dashboard-MERN_TypeScript_TailwindCSS)
 
 ---
 
