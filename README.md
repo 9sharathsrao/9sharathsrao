@@ -1,12 +1,12 @@
 # Hey, I'm Sharath 👋
 
-### Software Developer · Java & Spring Boot · Full Stack · AI Applications
+### Python & AI Developer · Deep Learning · LLM Applications
 
-I'm a Software Developer with a strong foundation in **Java, Spring Boot, React.js, and MERN/TypeScript**, currently pursuing an **MS in Data Science and Artificial Intelligence** at Middlesex University Dubai.
+I'm a Python and AI developer currently pursuing an **MS in Data Science and Artificial Intelligence** at Middlesex University Dubai, with hands-on experience in **deep learning (PyTorch, UNET semantic segmentation)** and **LLM-driven agent workflows (LangGraph, Gemini API)**, deployed through **FastAPI and Flask**.
 
-I enjoy building complete applications — from **secure REST APIs and role-based authentication** to responsive frontends, database-driven systems, and **LLM-powered workflows**.
+I enjoy taking an AI idea from data to a working product: understanding the problem, preparing the data, training and tuning the model, and shipping it behind an API or web app that people can actually use.
 
-Currently looking for **software development internships and part-time opportunities** where I can contribute to real-world projects, learn from experienced engineers, and continue strengthening my software engineering skills.
+Currently looking for **AI / ML, Data Science and LLM application internships and part-time opportunities** where I can contribute to real-world projects, learn from experienced teams, and grow as an AI engineer.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=9sharathsrao&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -16,72 +16,54 @@ Currently looking for **software development internships and part-time opportuni
 
 ## 🧑‍💻 What I Work With
 
-### Backend
+### Languages
 
-`Java` · `Spring Boot` · `Spring Security` · `Hibernate/JPA` · `Node.js` · `Express.js` · `FastAPI` · `REST APIs`
+`Python` · `SQL` · `JavaScript` · `TypeScript`
+
+### AI / ML
+
+`PyTorch` · `TorchVision` · `CNNs` · `UNET` · `Semantic Segmentation` · `OpenCV` · `NumPy` · `LangGraph` · `LLM Integration` · `Gemini API` · `AI Agents & Tool Calling` · `Sentiment Analysis` · `Prompt Engineering`
+
+### Backend & APIs
+
+`FastAPI` · `Flask` · `REST APIs` · `Swagger` · `Node.js` · `Express.js`
 
 ### Frontend
 
-`React.js` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
+`React.js` · `HTML5` · `CSS3` · `Tailwind CSS`
 
 ### Databases
 
-`MySQL` · `PostgreSQL` · `MongoDB`
+`PostgreSQL` · `MySQL` · `MongoDB`
 
-### AI & LLM Applications
+### Tools & DevOps
 
-`LangGraph` · `LLM Integration` · `Gemini API` · `Python`
-
-### Engineering Tools
-
-`Git` · `GitHub` · `Docker` · `Linux` · `Postman` · `Swagger` · `CI/CD`
+`Git` · `GitHub` · `Docker` · `GitLab CI/CD` · `Kubernetes (GKE)` · `AWS CLI` · `Linux` · `Google Colab` · `Kaggle API` · `Postman` · `VS Code`
 
 ### Foundations
 
-`Data Structures & Algorithms` · `OOP` · `SDLC` · `Debugging` · `Testing` · `Authentication & Authorization`
+`Data Structures & Algorithms` · `OOP` · `Data Preprocessing` · `SDLC` · `Debugging` · `Authentication & Authorization`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧾 Retail Billing Software System
+## 🌍 UNET-Based Terrain Classification for Enhanced Environmental and Geospatial Applications
 
-**Java 8+ · Spring Boot · React.js · MySQL · Spring Security · JWT**
+**Python · PyTorch · OpenCV · NumPy · Flask**
 
-A full-stack point-of-sale system designed for small retail businesses to manage billing, inventory, sales, and staff accounts from a centralized platform.
-
-**What I built**
-
-* 🔐 JWT authentication and Spring Security role-based access control
-* 📦 Inventory, category, item, billing, and order management
-* 🖼️ Item image upload and cart-based checkout workflow
-* 💳 Razorpay integration alongside cash checkout
-* 📊 Sales dashboard with daily revenue and recent order history
-* 🧾 Printable receipts for completed sales
-
-**Repository:**
-[View Project →](https://github.com/9sharathsrao/Retail_Billing_Software_System-Spring_Boot-Spring_Security-React-Bootstrap5)
-
----
-
-## 📊 Smart Leads Dashboard
-
-**MERN · TypeScript · JWT · Docker · MongoDB**
-
-A full-stack lead management platform designed to help sales teams manage, search, filter, and track leads efficiently.
+A deep learning system that classifies satellite and aerial imagery **pixel by pixel** into 7 terrain classes (water, hills, forest, grassland, desert, mountain and tundra), replacing slow, manual, rule-based terrain mapping. Built as my B.E. final year project in a team of four.
 
 **What I built**
 
-* 🔐 JWT authentication with bcrypt password hashing
-* 👥 Role-based access for Admin and Sales Users
-* 🔎 Debounced search with combinable filters
-* 📄 Server-side pagination and sorting
-* 🔄 RESTful CRUD APIs with centralized error handling
-* 📤 CSV export for lead data
-* 🐳 Dockerized full-stack application for consistent deployment
+* 🧠 UNET encoder-decoder semantic segmentation model in PyTorch, with skip connections for sharp terrain boundaries
+* 🗂️ End-to-end data pipeline on a 5,000-image-set dataset (terrain, height and segmentation maps) sourced via the Kaggle API, standardized to 256×256 with train/validation/test splits
+* ⚙️ L1/L2 regularization, dropout and hyperparameter tuning (batch size 32, learning rate 1e-4, 40 epochs) for better generalization
+* 🌐 Flask web application with secure login, image upload and colour-coded segmentation output
 
-**Repository:**
-[View Project →](https://github.com/9sharathsrao/Smart_Leads_Dashboard-MERN_TypeScript_TailwindCSS)
+**Applications:** environmental monitoring, agriculture, disaster management and urban planning
+
+<!-- Add your repository link here, e.g. **Repository:** [View Project →](https://github.com/9sharathsrao/<repo-name>) -->
 
 ---
 
@@ -96,37 +78,42 @@ The system supports both **structured form-based logging and conversational inte
 **What I built**
 
 * 💬 Conversational interface for logging HCP interactions
-* 🧠 LangGraph agent with 5 interaction-management tools
+* 🧠 LangGraph agent with 5 interaction-management tools, including Log Interaction and Edit Interaction
 * ✨ Gemini-powered entity extraction from interaction data
-* ✏️ Interaction editing through agent tools
 * 💭 LLM-driven sentiment analysis
-* 📌 Automated follow-up recommendations
-* 📚 Swagger documentation for backend APIs
+* 📌 Automated follow-up recommendations to reduce manual reporting effort
+* ⚙️ FastAPI backend with PostgreSQL, documented with Swagger
 
 **Repository:**
 [View Project →](https://github.com/9sharathsrao/CRM_HCP_Interaction_Module-LLM_AI_Agent_framework-LangGraph_PostgreSQL-)
 
 ---
 
+# 📄 Publication & Achievements
+
+* 📝 **UNET-Based Terrain Classification for Enhanced Environmental and Geospatial Applications**: accepted for publication in the *International Journal of Research Publication and Reviews (IJRPR)*, Vol. 6, Issue 5 (May 2025) <!-- Add paper link: [Paper →](your-url) -->
+* 🏆 Presented the project at the **State-Level Student Project Exhibition "Meraki 2K25"**, R.R. Institute of Technology (7 May 2025)
+
+---
+
 # 💼 Experience
 
-### Full Stack Java Developer Intern — Jspiders
+### AI - DevOps Intern — Rooman Technologies
 
-**March 2025 – October 2025**
+**September 2024 – February 2025**
 
-Worked on full-stack application development using **Java, Spring Boot, React.js, MySQL, and Hibernate**.
+Level-5 internship program covering DevOps fundamentals, cloud computing and AI-assisted development practices.
 
-* Developed backend features and REST APIs using Java and Spring Boot
-* Implemented authentication and authorization using Spring Security and JWT
-* Worked with MySQL/Hibernate-based application workflows
-* Performed API testing and debugging using Postman
-* Fixed defects and supported frontend-backend integration
+* Worked with Python, Flask, Linux, networking essentials and database concepts to understand backend application and deployment workflows
+* Gained hands-on exposure to Docker containerization, CI/CD pipelines and GitLab pipeline automation for application build and deployment
+* Learned cloud and orchestration fundamentals including Google Kubernetes Engine (GKE), cloud computing concepts and AWS CLI basics
+* Explored AI coding assistants and prompt engineering to improve development productivity, alongside Git-based collaboration, debugging and deployment tasks
 
 ---
 
 # 🎓 Education
 
-### MSc — Data Science and Artificial Intelligence
+### MS — Data Science and Artificial Intelligence
 
 **Middlesex University Dubai**
 2026 – 2027
@@ -160,18 +147,17 @@ Worked on full-stack application development using **Java, Spring Boot, React.js
 
 # 🌱 Currently
 
-* 🎓 Pursuing an **MS in Data Science and Artificial Intelligence**
-* 🧠 Strengthening **Data Structures & Algorithms** for technical interviews
-* ☕ Deepening my **Java & Spring Boot** backend development skills
-* 🤖 Exploring **LLM applications and agentic workflows**
-* 🛠️ Building and improving full-stack projects
-* 🔍 Open to **software development internships and part-time opportunities**
+* 🎓 Pursuing an **MS in Data Science and Artificial Intelligence** at Middlesex University Dubai
+* 🧠 Deepening my foundations in **machine learning, deep learning and statistics**
+* 🤖 Building **LLM applications and agentic workflows** with LangGraph
+* 🛠️ Learning how to take models from notebook to deployment (Docker, CI/CD, cloud)
+* 🔍 Open to **AI / ML, Data Science and LLM application internships and part-time opportunities**
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always happy to connect with recruiters, developers, founders, and people building interesting products.
+I'm always happy to connect with recruiters, engineers, founders and people building interesting AI products.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hey-rao/">
@@ -185,5 +171,5 @@ I'm always happy to connect with recruiters, developers, founders, and people bu
 ---
 
 <p align="center">
-  <i>Building practical software, learning continuously, and getting better with every project.</i>
+  <i>Building practical AI, learning continuously, and getting better with every project.</i>
 </p>
